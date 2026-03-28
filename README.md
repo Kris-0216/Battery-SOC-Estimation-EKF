@@ -16,7 +16,7 @@ The system utilizes a **2nd-order RC (Dual Polarization) Equivalent Circuit Mode
 
 ## 📊 Simulation Results
 
-*(Note: Ensure your images are placed in the `images/` folder)*
+
 
 ### 1. Dynamic SOC Tracking & Convergence
 The EKF successfully tracks the true SOC despite intense current fluctuations and an extreme initial offset.
